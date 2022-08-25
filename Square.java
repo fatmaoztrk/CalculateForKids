@@ -1,5 +1,4 @@
-// Square.java Author: Fatma Öztürk ID: 21895770
-// e-mail: oztrk21895570@hotmail.com
+
 public class Square implements Shape{
 	private int SquareZ;
 	
