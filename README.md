@@ -1,1 +1,5 @@
-# github
+A geometry teaching application has been developed for children. Geometric shapes are limited to square, rectangle, and circle shapes. The application aims to teach the calculation of area and perimeter of these shapes. The application should work as follows:
+1) The application lists a menu for the user to choose one of the geometric shapes.
+2) After selecting a geometric shape, the app lists two options: perimeter and area. The user selects one of them.
+3) The application displays the necessary information for the shape and operation selected in step 1 and step 2, respectively. For example, if the user selected the rectangular object, the application displays the length and width and waits for the user to enter the result of the operation. Note that the app should generate random shape information (side for square; length and width for rectangle; radius for circle). You can use the random method of the built-in Math class.
+4) The application checks whether the result entered by the user is correct. The user has 3 chances. If the user cannot calculate the correct answer three times, the app will show the correct result, otherwise it will repeat step 3.
