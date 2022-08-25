@@ -1,5 +1,4 @@
-// Rectangle.java Author: Fatma Öztürk ID: 21895770
-// e-mail: oztrk21895570@hotmail.com
+
 public class Rectangle implements Shape {
 	private int RecX;
 	private int RecY;
