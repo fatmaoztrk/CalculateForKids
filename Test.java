@@ -1,5 +1,4 @@
-// Test.java Author: Fatma Öztürk ID: 21895770
-// e-mail: oztrk21895570@hotmail.com
+
 import java.util.Random;
 import java.util.Scanner;
 public class Test {
