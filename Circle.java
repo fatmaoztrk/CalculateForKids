@@ -1,5 +1,4 @@
-// Circle.java Author: Fatma Öztürk ID: 21895770
-// e-mail: oztrk21895570@hotmail.com
+
 public class Circle implements Shape{ 
 	private int radius;
 	
